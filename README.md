@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">  
-<img src="https://github.com/Tifarahani/Amazon_Vine_Analysis/blob/main/Resources/Img/2.png"  width="70%" height="70%">
+<img src="https://github.com/Tifarahani/Amazon_Vine_Analysis/blob/main/Resources/Img/2.png"  width="60%" height="60%">
 </p>
 
 <p align="center">  
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">  
-<img src="https://github.com/Tifarahani/Amazon_Vine_Analysis/blob/main/Resources/Img/4.png"  width="60%" height="60%">
+<img src="https://github.com/Tifarahani/Amazon_Vine_Analysis/blob/main/Resources/Img/4.png"  width="80%" height="80%">
 </p>
 #### Deliverable 2: Determine Bias of Vine Reviews
 
