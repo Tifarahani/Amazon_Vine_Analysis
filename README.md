@@ -29,6 +29,9 @@ The purpose of this analysis is to use PySpark to perform the ETL process to ext
 47% of records that were not part of the Non Vine program(unpaid) also gave a 5-star rating.
 There were significantly less records that had Vine than those records that did not had Vine,
 so there is less possibility of bias in the Vine/Star-Rating reviews.
+After reviewing the results comparing the Vine vs. Non-Vine reviews, there is not a bias for reviews in the Vine program. As seen in the images above, 42% of Vine members reviews were 5-star and 47% of Non-Vine reviews were 5-star. The number of Vine reviews total in comparison to Non-Vine reviews is significantly less though.
+
+In order to confirm the Non-Vine customers actually purchased the item from Amazon or that it wasn't gifted, we can also filter based on the verified_purchase column. After rerunning the calculations on this new dataframe, 48% of Non-Vine members reviews were 5-star and verified that they purchased the item.
  
 ---
 #### Resources:
