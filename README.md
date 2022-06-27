@@ -24,6 +24,20 @@ The purpose of this analysis is to use PySpark to perform the ETL process to ext
 
 <img src="https://github.com/Tifarahani/Amazon_Vine_Analysis/blob/main/Resources/Img/8.png"  width="80%" height="80%">
 
+<img src="https://github.com/Tifarahani/Amazon_Vine_Analysis/blob/main/Resources/Img/9.png"  width="80%" height="80%">
+
+<img src="https://github.com/Tifarahani/Amazon_Vine_Analysis/blob/main/Resources/Img/10png"  width="80%" height="80%">
+
+<img src="https://github.com/Tifarahani/Amazon_Vine_Analysis/blob/main/Resources/Img/11.png"  width="80%" height="80%">
+
+<img src="https://github.com/Tifarahani/Amazon_Vine_Analysis/blob/main/Resources/Img/12.png"  width="80%" height="80%">
+
+<img src="https://github.com/Tifarahani/Amazon_Vine_Analysis/blob/main/Resources/Img/13.png"  width="80%" height="80%">
+
+<img src="https://github.com/Tifarahani/Amazon_Vine_Analysis/blob/main/Resources/Img/14.png"  width="80%" height="80%">
+
+
+
 #### Conclusion:
 36% of records that were part of the Vine program(paid) gave a 5-star rating.
 47% of records that were not part of the Non Vine program(unpaid) also gave a 5-star rating.
