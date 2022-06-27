@@ -1,10 +1,12 @@
 # Amazon_Vine_Analysis
+---
 ### Overview
+
+The purpose of this analysis is to use PySpark to perform the ETL process to extract one of the datasets from Amazon reviews written by members of the paid Amazon Vine program. To accomplish this I transformed the data, connected to an AWS RDS instance, loaded the transformed data into pgAdmin, and then used PySpark to determine if there was any bias towards favorable reviews from Vine members in the dataset.
 
 ---
 
 #### Deliverable 1: Perform ETL on Amazon Product Reviews
----
  
 <img src="https://github.com/Tifarahani/Amazon_Vine_Analysis/blob/main/Resources/Img/1.png"  width="70%" height="70%">
 
@@ -20,6 +22,7 @@
 
 <img src="https://github.com/Tifarahani/Amazon_Vine_Analysis/blob/main/Resources/Img/4.png"  width="80%" height="80%">
 
+customers_table
 
 <img src="https://github.com/Tifarahani/Amazon_Vine_Analysis/blob/main/Resources/Img/5.png"  width="80%" height="80%">
 
