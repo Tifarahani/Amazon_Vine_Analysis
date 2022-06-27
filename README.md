@@ -24,7 +24,7 @@ The purpose of this analysis is to use PySpark to perform the ETL process to ext
 
 <img src="https://github.com/Tifarahani/Amazon_Vine_Analysis/blob/main/Resources/Img/8.png"  width="60%" height="60%">
 
-<img src="https://github.com/Tifarahani/Amazon_Vine_Analysis/blob/main/Resources/Img/9.png"  width="60%" height="60%">
+<img src="https://github.com/Tifarahani/Amazon_Vine_Analysis/blob/main/Resources/Img/9.png"  width="40%" height="40%">
 
 <img src="https://github.com/Tifarahani/Amazon_Vine_Analysis/blob/main/Resources/Img/10.png"  width="60%" height="60%">
 
