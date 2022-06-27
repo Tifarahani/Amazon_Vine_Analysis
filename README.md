@@ -20,6 +20,15 @@
 
 <img src="https://github.com/Tifarahani/Amazon_Vine_Analysis/blob/main/Resources/Img/4.png"  width="80%" height="80%">
 
+
+<img src="https://github.com/Tifarahani/Amazon_Vine_Analysis/blob/main/Resources/Img/5.png"  width="80%" height="80%">
+
+<img src="https://github.com/Tifarahani/Amazon_Vine_Analysis/blob/main/Resources/Img/6.png"  width="80%" height="80%">
+
+<img src="https://github.com/Tifarahani/Amazon_Vine_Analysis/blob/main/Resources/Img/7.png"  width="80%" height="80%">
+
+<img src="https://github.com/Tifarahani/Amazon_Vine_Analysis/blob/main/Resources/Img/8.png"  width="80%" height="80%">
+
 #### Deliverable 2: Determine Bias of Vine Reviews
 
 
